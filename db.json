@@ -1,11 +1,37 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "hello"
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    "draws": [{
+        "id": "reward_28b587b65f8f11e99ab60242ac110002",
+        "type": "weekly",
+        "draws": 7,
+        "winners": 250,
+        "ballots": 35,
+        "startDate": "2019-11-18T05:00:00.000Z",
+        "endDate": "2019-11-25T05:00:00.000Z",
+        "title": "Weekly Draw",
+        "terms": "NO PURCHASE NECESSARY TO PARTICIPATE OR WIN.  This Program takes place electronically using an app and requires you to have a mobile tool, an internet connection and to download the application named ParticipACTION (the “app”). For full contest rules visit https://participaction.com/en-ca/info/rules-and-regulations. Contest starts February 7, 2019 and ends on January 6, 2020.  Contest is open to all residents of Canada who are 17 years of age or older.  There are eleven thousand seven hundred and fifty (11,750) Weekly Prizes available to be won, one hundred and ten (110) Monthly Prizes available to be won and sixteen (16) Quarterly Prizes available to be won.  Odds of winning depend on the total number of eligible entries received during applicable period. Prizes diminish as awarded.  Apple is neither affiliated with the app nor are they a sponsor in the Contest.",
+        "prizeTitle": "$10 Amazon Gift Card"
+    }, {
+        "id": "reward_d97e702003d811e997d30242ac130004",
+        "type": "monthly",
+        "draws": 1,
+        "winners": 100,
+        "ballots": 440,
+        "startDate": "2019-11-04T05:00:00.000Z",
+        "endDate": "2019-12-04T05:00:00.000Z",
+        "title": "Monthly Draw",
+        "terms": "NO PURCHASE NECESSARY TO PARTICIPATE OR WIN.  This Program takes place electronically using an app and requires you to have a mobile tool, an internet connection and to download the application named ParticipACTION (the “app”). For full contest rules visit https://participaction.com/en-ca/info/rules-and-regulations. Contest starts February 7, 2019 and ends on January 6, 2020.  Contest is open to all residents of Canada who are 17 years of age or older.  There are eleven thousand seven hundred and fifty (11,750) Weekly Prizes available to be won, one hundred and ten (110) Monthly Prizes available to be won and sixteen (16) Quarterly Prizes available to be won.  Odds of winning depend on the total number of eligible entries received during applicable period. Prizes diminish as awarded.  Apple is neither affiliated with the app nor are they a sponsor in the Contest.",
+        "prizeTitle": "$250 Sport Chek Gift Card"
+    }, {
+        "id": "reward_f02386bc03d811e988310242ac130004",
+        "type": "quarterly",
+        "draws": 4,
+        "winners": 2,
+        "ballots": 450,
+        "startDate": "2019-10-07T05:00:00.000Z",
+        "endDate": "2020-01-06T05:00:00.000Z",
+        "title": "Quarterly Draw",
+        "terms": "NO PURCHASE NECESSARY TO PARTICIPATE OR WIN.  This Program takes place electronically using an app and requires you to have a mobile tool, an internet connection and to download the application named ParticipACTION (the “app”). For full contest rules visit https://participaction.com/en-ca/info/rules-and-regulations. Contest starts February 7, 2019 and ends on January 6, 2020.  Contest is open to all residents of Canada who are 17 years of age or older.  There are eleven thousand seven hundred and fifty (11,750) Weekly Prizes available to be won, one hundred and ten (110) Monthly Prizes available to be won and sixteen (16) Quarterly Prizes available to be won.  Odds of winning depend on the total number of eligible entries received during applicable period. Prizes diminish as awarded.  Apple is neither affiliated with the app nor are they a sponsor in the Contest.",
+        "prizeTitle": "$2000 Sport Chek Gift Card"
+    }],
+    "prizes": []
 }
