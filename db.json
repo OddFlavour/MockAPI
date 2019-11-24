@@ -33,5 +33,14 @@
         "terms": "NO PURCHASE NECESSARY TO PARTICIPATE OR WIN.  This Program takes place electronically using an app and requires you to have a mobile tool, an internet connection and to download the application named ParticipACTION (the “app”). For full contest rules visit https://participaction.com/en-ca/info/rules-and-regulations. Contest starts February 7, 2019 and ends on January 6, 2020.  Contest is open to all residents of Canada who are 17 years of age or older.  There are eleven thousand seven hundred and fifty (11,750) Weekly Prizes available to be won, one hundred and ten (110) Monthly Prizes available to be won and sixteen (16) Quarterly Prizes available to be won.  Odds of winning depend on the total number of eligible entries received during applicable period. Prizes diminish as awarded.  Apple is neither affiliated with the app nor are they a sponsor in the Contest.",
         "prizeTitle": "$2000 Sport Chek Gift Card"
     }],
-    "prizes": []
+    "prizes": [{
+        "id": "prize_ee740e7a33b411e983d80242ac110002",
+        "winningDate": "2019-02-18T19:39:39.926Z",
+        "title": "Weekly Draw",
+        "drawTitle": "$10 Sport Chek Gift Card",
+        "drawType": null,
+        "redemptionDetails": "• eGift Cards distributed by ParticipACTION are valid online at SportChek.ca or SportsExperts.ca (for residences of Quebec)\r\n• Online, eCards can be redeemed during the payment stage of checkout. \r\n• The Gift Card number and Pin number can be used to redeem the amount on the card as payment.\r\n• Maximum of 2 eCards can be redeemed online in one transaction.\r\n• eCards are not redeemable in store. \r\n• Problems redeeming your eGift Card online? Please contact Sport Chek Gift Card Customer Service line (1-877-977-2435, option #3) or the Sport Experts Service line (1-844-680-2070).",
+        "redemptionCode": " 936387",
+        "redemptionSerial": " 606039 37779 21610401 3"
+    }]
 }
